@@ -1,4 +1,3 @@
-from datetime import date
 import cProfile
 import timeit
 
