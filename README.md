@@ -1,6 +1,6 @@
 # flaskonacci
 
-[Perfect subset sum problem](https://en.wikipedia.org/wiki/Subset_sum_problem) with Fibonacci twist, build with Flask
+[Perfect subset sum problem](https://en.wikipedia.org/wiki/Subset_sum_problem) with Fibonacci twist, build with Flask. Read task description [here](fibonacci2.pdf) 
 
 ## install
 
